@@ -1,4 +1,3 @@
-:satisfied:
 # DELANI STUDIO
 #### This project is for Delani studios
 #### By **Abduljabbar Abdulghani **
